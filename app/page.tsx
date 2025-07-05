@@ -156,7 +156,7 @@ export default function Home() {
             <div className="relative">
               <div className="aspect-[3/4] overflow-hidden rounded-lg">
                 <img 
-                  src="https://images.pexels.com/photos/3760514/pexels-photo-3760514.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop" 
+                  src="/image.png" 
                   alt="Dr. Serena Blake" 
                   className="w-full h-full object-cover"
                 />
